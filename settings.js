@@ -20,7 +20,7 @@ function convertToBool(text, fault = 'true') {
 
 global.thumb = fs.readFileSync('./lib/bugs/XByte.png') //Don't change
 //////////////////////////////////////////////////////////
-const BOTNAME = 'X - B Y T E'; //BOT name
+const BOTNAME = 'X - B Y T d'; //BOT name
 //////////////////////////////////////////////////////////
 const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 
